@@ -1,2 +1,2 @@
 # Tax_App_Android_Studio
- Android app that calculates sales tax. (Personal project / challenge)
+ Android app that calculates sales tax.
